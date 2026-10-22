@@ -9,14 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
 ## Primality Test
 |  |
 | ------- |
@@ -29,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
