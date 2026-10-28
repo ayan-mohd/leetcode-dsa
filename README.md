@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
+| [4024-nearest-available-drone](https://github.com/ayan-mohd/leetcode-dsa/tree/master/4024-nearest-available-drone) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
+| [4024-nearest-available-drone](https://github.com/ayan-mohd/leetcode-dsa/tree/master/4024-nearest-available-drone) |
 ## Number Theory
 |  |
 | ------- |
