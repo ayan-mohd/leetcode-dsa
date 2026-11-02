@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
+| [0300-longest-increasing-subsequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3842-toggle-light-bulbs](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3842-toggle-light-bulbs) |
 | [3912-valid-elements-in-an-array](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3912-valid-elements-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -93,9 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 ## Simulation
 |  |
 | ------- |
 | [3842-toggle-light-bulbs](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3842-toggle-light-bulbs) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
