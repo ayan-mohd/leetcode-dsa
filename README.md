@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3842-toggle-light-bulbs](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3842-toggle-light-bulbs) |
 | [3912-valid-elements-in-an-array](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3912-valid-elements-in-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3842-toggle-light-bulbs](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
