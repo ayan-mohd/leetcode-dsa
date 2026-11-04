@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3842-toggle-light-bulbs](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3842-toggle-light-bulbs) |
 | [3912-valid-elements-in-an-array](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3912-valid-elements-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3842-toggle-light-bulbs](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Trie
 |  |
 | ------- |
