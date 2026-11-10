@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0869-reordered-power-of-2](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0869-reordered-power-of-2) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2409-count-days-spent-together](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
+| [0869-reordered-power-of-2](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0869-reordered-power-of-2) |
 | [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
 | [4024-nearest-available-drone](https://github.com/ayan-mohd/leetcode-dsa/tree/master/4024-nearest-available-drone) |
 ## Number Theory
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0205-isomorphic-strings) |
+| [0869-reordered-power-of-2](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0869-reordered-power-of-2) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3842-toggle-light-bulbs](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3842-toggle-light-bulbs) |
 ## String
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0869-reordered-power-of-2](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0869-reordered-power-of-2) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -136,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Counting
+|  |
+| ------- |
+| [0869-reordered-power-of-2](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0869-reordered-power-of-2) |
 <!---LeetCode Topics End-->
