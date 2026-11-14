@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3842-toggle-light-bulbs](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3842-toggle-light-bulbs) |
 | [3912-valid-elements-in-an-array](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3912-valid-elements-in-an-array) |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0279-perfect-squares) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
