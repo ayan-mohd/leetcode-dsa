@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
