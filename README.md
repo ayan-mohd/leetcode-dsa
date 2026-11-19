@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -173,9 +175,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
