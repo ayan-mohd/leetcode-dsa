@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [1089-duplicate-zeros](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1089-duplicate-zeros) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0869-reordered-power-of-2](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0869-reordered-power-of-2) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2409-count-days-spent-together](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
@@ -183,5 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3364-minimum-positive-sum-subarray) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
