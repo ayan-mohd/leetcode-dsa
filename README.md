@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1089-duplicate-zeros) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1534-count-good-triplets](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1534-count-good-triplets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
 | [0869-reordered-power-of-2](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0869-reordered-power-of-2) |
+| [1534-count-good-triplets](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1534-count-good-triplets) |
 | [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
 | [4024-nearest-available-drone](https://github.com/ayan-mohd/leetcode-dsa/tree/master/4024-nearest-available-drone) |
 ## Number Theory
