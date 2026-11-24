@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3842-toggle-light-bulbs](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3842-toggle-light-bulbs) |
 | [3912-valid-elements-in-an-array](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3912-valid-elements-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2409-count-days-spent-together](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3996-even-number-of-knight-moves](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3996-even-number-of-knight-moves) |
@@ -51,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0869-reordered-power-of-2) |
 | [1534-count-good-triplets](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1534-count-good-triplets) |
 | [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [4024-nearest-available-drone](https://github.com/ayan-mohd/leetcode-dsa/tree/master/4024-nearest-available-drone) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
