@@ -205,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
