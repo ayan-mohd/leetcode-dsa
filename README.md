@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0624-maximum-distance-in-arrays) |
+| [0997-find-the-town-judge](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0997-find-the-town-judge) |
 | [1089-duplicate-zeros](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1089-duplicate-zeros) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0869-reordered-power-of-2](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0869-reordered-power-of-2) |
+| [0997-find-the-town-judge](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0997-find-the-town-judge) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3842-toggle-light-bulbs](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3842-toggle-light-bulbs) |
 ## String
@@ -208,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
