@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2409-count-days-spent-together](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2427-number-of-common-factors) |
+| [3360-stone-removal-game](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayan-mohd/leetcode-dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3360-stone-removal-game) |
 | [3842-toggle-light-bulbs](https://github.com/ayan-mohd/leetcode-dsa/tree/master/3842-toggle-light-bulbs) |
 ## Longest Increasing Subsequence
 |  |
