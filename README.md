@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1436-destination-city](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1436-destination-city) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1534-count-good-triplets](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1534-count-good-triplets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0869-reordered-power-of-2](https://github.com/ayan-mohd/leetcode-dsa/tree/master/0869-reordered-power-of-2) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayan-mohd/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
